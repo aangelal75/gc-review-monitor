@@ -1,0 +1,20 @@
+{
+  "total": 99,
+  "sum": 396,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 99,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Betty Hevia|1785793942",
+    "Takeila Claverie|1785618240",
+    "Rodney & Mona Lisa Cravey|1785363930",
+    "Sasi|1784925673",
+    "Gerardo Mares|1784900894"
+  ],
+  "google_rating": 4.1,
+  "bootstrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "total": 345,
+  "sum": 1380,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 345,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Daphne LaCour|1786806674",
+    "melanie woody|1786420152",
+    "Coh Hhs.311|1786311412",
+    "clint Shah|1784389673",
+    "Cody Roskelley|1784127572"
+  ],
+  "google_rating": 4,
+  "bootstrapped": true
+}

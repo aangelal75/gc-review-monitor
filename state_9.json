@@ -1,0 +1,20 @@
+{
+  "total": 224,
+  "sum": 896,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 224,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Eric Schneider|1786301295",
+    "Becky Meredith|1784480077",
+    "jane anderson|1783096942",
+    "Adrian Maya|1782513195",
+    "steven agorastos|1781462240"
+  ],
+  "google_rating": 4.1,
+  "bootstrapped": true
+}

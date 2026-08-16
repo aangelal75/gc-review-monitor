@@ -1,0 +1,20 @@
+{
+  "total": 216,
+  "sum": 864,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 216,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Jason Riddle|1786823446",
+    "Dave In Texas|1785427544",
+    "susan titus|1783716527",
+    "Alan Richel|1783381076",
+    "Michael Colburn|1783090427"
+  ],
+  "google_rating": 4.3,
+  "bootstrapped": true
+}

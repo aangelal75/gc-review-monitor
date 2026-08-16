@@ -1,0 +1,20 @@
+{
+  "total": 9,
+  "sum": 45,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+  },
+  "seen_review_ids": [
+    "N M|1786402667",
+    "Kendra Mullican|1785433533",
+    "Jose carreon|1784997582",
+    "Henry Merlos|1782941292",
+    "Dale Morris|1782333184"
+  ],
+  "google_rating": 5,
+  "bootstrapped": true
+}

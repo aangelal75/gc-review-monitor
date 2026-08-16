@@ -1,0 +1,20 @@
+{
+  "total": 224,
+  "sum": 896,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 224,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "D J|1786203081",
+    "Leonora Vazquez|1784721416",
+    "Bridgette Boykin|1784490136",
+    "Berenice Moreno|1782929460",
+    "Rachadaporn Promjunyakul|1781815426"
+  ],
+  "google_rating": 4.2,
+  "bootstrapped": true
+}

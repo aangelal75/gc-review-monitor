@@ -1,0 +1,20 @@
+{
+  "total": 113,
+  "sum": 452,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 113,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Linda Stricker|1786031018",
+    "Kicu Thomas|1784225533",
+    "Jeff Ward|1782003769",
+    "Janice Lee|1778600238",
+    "Pavan Kumar|1777030955"
+  ],
+  "google_rating": 4.2,
+  "bootstrapped": true
+}

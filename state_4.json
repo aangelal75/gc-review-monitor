@@ -1,0 +1,20 @@
+{
+  "total": 282,
+  "sum": 1128,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 282,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Dale A|1786815747",
+    "Dawn V|1786725194",
+    "Denise Stanfield|1785724692",
+    "Jessica R|1783716283",
+    "Hot Road|1781142674"
+  ],
+  "google_rating": 4.3,
+  "bootstrapped": true
+}

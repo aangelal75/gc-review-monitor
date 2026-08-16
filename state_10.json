@@ -1,0 +1,20 @@
+{
+  "total": 133,
+  "sum": 532,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 133,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "Kelly McGonigle|1786727256",
+    "MJ Frew|1785086351",
+    "David Rodriguez|1784996298",
+    "Shivsankar R.|1783008742",
+    "Fudge N Crunch|1782249339"
+  ],
+  "google_rating": 4.5,
+  "bootstrapped": true
+}

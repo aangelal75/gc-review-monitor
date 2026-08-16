@@ -1,0 +1,20 @@
+{
+  "total": 110,
+  "sum": 440,
+  "breakdown": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 110,
+    "5": 0
+  },
+  "seen_review_ids": [
+    "robert reyna|1786823358",
+    "Tracy Brugno|1786631664",
+    "Brandi Mclemore-Naqvi|1785457299",
+    "Mary Morales|1785016077",
+    "Diane Isam|1784829786"
+  ],
+  "google_rating": 4.3,
+  "bootstrapped": true
+}
