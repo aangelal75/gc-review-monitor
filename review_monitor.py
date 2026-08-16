@@ -131,7 +131,7 @@ def build_daily_email(salon, old_state, new_state, new_reviews, note):
     needed  = stars_needed(total, s, target)
     bd      = new_state["breakdown"]
 
-    lines = [f"{name} — Daily Review Check  ({datetime.now().strftime('%B %-d, %Y')})", ""]
+    lines = [f"{name} — Weekly Review Check  ({datetime.now().strftime('%B %-d, %Y')})", ""]
 
     if delta == 0 and not new_reviews:
         lines += [f"No new reviews today.",
@@ -209,7 +209,7 @@ def run_salon(salon):
 
     if SEND_ALWAYS:
         body    = build_daily_email(salon, old_state, new_state, new_reviews, note)
-        subject = f"{salon['name']} — Daily Review Check"
+        subject = f"{salon['name']} — Weekly Review Check"
         send_email(to_list, subject, body)
     elif new_reviews:
         body    = build_alert_email(salon, new_state, new_reviews)
