@@ -1,9 +1,107 @@
 [
   {
-    "id": "4542",
-    "name": "Great Clips Salon 4542 — Rutherford Marketplace, Vaughan",
-    "place_id": "YOUR_PLACE_ID_HERE",
-    "email_to": "owner@email.com, manager@email.com",
-    "target_rating": 4.9
+    "id": "1",
+    "name": "Great Clips Salon 1 — Fairfield",
+    "place_id": "ChIJ1-lTxoUqQYYRSMItEa_Emlo",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "Great Clips Salon 2 — Town Plaza",
+    "place_id": "ChIJgSZdiH8wR4YRM-RUl8jz8nw",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "3",
+    "name": "Great Clips Salon 3 — Conroe Heb",
+    "place_id": "ChIJxXkvmHQ8R4YRoGnnI8AM3uU",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "4",
+    "name": "Great Clips Salon 4 — Cypress Marketplace",
+    "place_id": "ChIJj9gUiLPVQIYRZ2_R4SUTRtc",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "5",
+    "name": "Great Clips Salon 5 — Magnolia/The Market At 1488",
+    "place_id": "ChIJdSttKP8vR4YRuHRLX-YAe6c",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "6",
+    "name": "Great Clips Salon 6 — Missouri City",
+    "place_id": "ChIJBVuIGvrlQIYRXUAnQ_RjL6I",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "7",
+    "name": "Great Clips Salon 7 — Buffalo Springs/Montgomery",
+    "place_id": "ChIJpy_GGTMgR4YRQ_7yEWbvs2w",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "8",
+    "name": "Great Clips Salon 8 — Mont Belvieu Crossing",
+    "place_id": "ChIJOzkPRsRFP4YROQCQX5T8upA",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "9",
+    "name": "Great Clips Salon 9 — Pines Of Gleannloch Farms",
+    "place_id": "ChIJ17tIQ1fNQIYR4p7q431MCOk",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "10",
+    "name": "Great Clips Salon 10 — Richmond Town Plaza",
+    "place_id": "ChIJXywm6p4dQYYR0KELI95i0oc",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "11",
+    "name": "Great Clips Salon 11 — Market At Willis",
+    "place_id": "ChIJRVmxf1oXR4YREl5Rt0PqiOo",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "12",
+    "name": "Great Clips Salon 12 — Heritage Green",
+    "place_id": "ChIJHVvx9hknR4YRwAy6_WBNzfk",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "13",
+    "name": "Great Clips Salon 13 — Manvel Town Center",
+    "place_id": "ChIJhWzDi6CNQIYRLT9RNSGhhwQ",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "14",
+    "name": "Great Clips Salon 14 — Sienna Grande Shops",
+    "place_id": "ChIJd38zGZjxQIYREW4b61Ys8as",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
+  },
+  {
+    "id": "15",
+    "name": "Great Clips Salon 15 — Chambers Commons",
+    "place_id": "ChIJcekE7oNbP4YRB8meCtiAu2Y",
+    "email_to": "adriana.hinojosa@greatclips.net, manager1687@gmail.com, manager3833@gmail.com",
+    "target_rating": 4.5
   }
 ]
