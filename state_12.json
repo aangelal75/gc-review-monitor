@@ -1,20 +1,20 @@
 {
-  "total": 110,
-  "sum": 440,
+  "total": 111,
+  "sum": 441,
   "breakdown": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 110,
     "5": 0
   },
   "seen_review_ids": [
+    "Brian Wright|1787009668",
     "robert reyna|1786823358",
     "Tracy Brugno|1786631664",
     "Brandi Mclemore-Naqvi|1785457299",
-    "Mary Morales|1785016077",
-    "Diane Isam|1784829786"
+    "Mary Morales|1785016077"
   ],
-  "google_rating": 4.3,
+  "google_rating": 4.2,
   "bootstrapped": true
 }
