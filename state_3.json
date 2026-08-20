@@ -1,19 +1,19 @@
 {
-  "total": 469,
-  "sum": 1876,
+  "total": 470,
+  "sum": 1881,
   "breakdown": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 469,
-    "5": 0
+    "5": 1
   },
   "seen_review_ids": [
+    "Nathan Gonzalez|1787184313",
     "Cindy Henry|1784736758",
     "Gunner|1781735153",
     "DAWN BELL|1780932439",
-    "bill cobb|1779985652",
-    "Kenna Leonhardt|1779386588"
+    "bill cobb|1779985652"
   ],
   "google_rating": 4.5,
   "bootstrapped": true
