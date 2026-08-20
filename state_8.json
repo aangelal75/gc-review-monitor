@@ -1,19 +1,19 @@
 {
-  "total": 112,
-  "sum": 448,
+  "total": 113,
+  "sum": 453,
   "breakdown": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 112,
-    "5": 0
+    "5": 1
   },
   "seen_review_ids": [
+    "Colton Walker|1787246770",
     "Sara Flowers|1786843109",
     "Mandi Nelson|1786123357",
     "Jeff Mefferd|1785076829",
-    "Estefana Guerrero|1784293963",
-    "Suave King|1784241907"
+    "Estefana Guerrero|1784293963"
   ],
   "google_rating": 4.5,
   "bootstrapped": true
