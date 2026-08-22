@@ -16,5 +16,9 @@
     "Christian Horn|1784329379"
   ],
   "google_rating": 4.3,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 272,
+    "sum": 1145
+  }
 }

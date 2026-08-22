@@ -16,5 +16,9 @@
     "Traci Jones|1776195839"
   ],
   "google_rating": 4.4,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 28,
+    "sum": 134
+  }
 }

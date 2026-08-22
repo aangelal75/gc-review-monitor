@@ -16,5 +16,9 @@
     "Pavan Kumar|1777030955"
   ],
   "google_rating": 4.2,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 113,
+    "sum": 475
+  }
 }

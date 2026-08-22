@@ -16,5 +16,9 @@
     "Mary Morales|1785016077"
   ],
   "google_rating": 4.2,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 111,
+    "sum": 478
+  }
 }

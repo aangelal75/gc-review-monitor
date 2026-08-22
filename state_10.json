@@ -16,5 +16,9 @@
     "Fudge N Crunch|1782249339"
   ],
   "google_rating": 4.5,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 133,
+    "sum": 605
+  }
 }

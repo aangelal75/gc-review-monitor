@@ -16,5 +16,9 @@
     "bill cobb|1779985652"
   ],
   "google_rating": 4.5,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 470,
+    "sum": 2163
+  }
 }

@@ -16,5 +16,9 @@
     "Berenice Moreno|1782929460"
   ],
   "google_rating": 4.2,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 225,
+    "sum": 996
+  }
 }

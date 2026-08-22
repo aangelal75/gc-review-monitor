@@ -16,5 +16,9 @@
     "Estefana Guerrero|1784293963"
   ],
   "google_rating": 4.5,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 113,
+    "sum": 504
+  }
 }

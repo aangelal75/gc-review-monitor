@@ -16,5 +16,9 @@
     "Cody Roskelley|1784127572"
   ],
   "google_rating": 4,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 345,
+    "sum": 1368
+  }
 }

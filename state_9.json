@@ -16,5 +16,9 @@
     "Adrian Maya|1782513195"
   ],
   "google_rating": 4.1,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 225,
+    "sum": 974
+  }
 }

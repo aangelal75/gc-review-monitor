@@ -16,5 +16,9 @@
     "Hot Road|1781142674"
   ],
   "google_rating": 4.3,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 282,
+    "sum": 1222
+  }
 }

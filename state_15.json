@@ -16,5 +16,9 @@
     "Dale Morris|1782333184"
   ],
   "google_rating": 5,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 9,
+    "sum": 45
+  }
 }

@@ -16,5 +16,9 @@
     "Gerardo Mares|1784900894"
   ],
   "google_rating": 4.1,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 99,
+    "sum": 394
+  }
 }

@@ -16,5 +16,9 @@
     "Michael Colburn|1783090427"
   ],
   "google_rating": 4.3,
-  "bootstrapped": true
+  "bootstrapped": true,
+  "week_baseline": {
+    "total": 216,
+    "sum": 947
+  }
 }
