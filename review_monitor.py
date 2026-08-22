@@ -120,26 +120,26 @@ def update_breakdown(state, result):
 
 
 # ── Email builders ─────────────────────────────────────────────────────────────
-def build_daily_email(salon, old_state, new_state, new_reviews, note):
-    name    = salon["name"]
-    target  = salon.get("target_rating", 4.9)
-    total   = new_state["total"]
-    s       = new_state["sum"]
-    avg     = round(s / total, 4) if total else 0
-    old_avg = round(old_state["sum"] / old_state["total"], 4) if old_state.get("total") else None
-    delta   = total - old_state.get("total", total)
-    needed  = stars_needed(total, s, target)
-    bd      = new_state["breakdown"]
+def build_daily_email(salon, baseline, new_state, new_reviews, note):
+    name     = salon["name"]
+    target   = salon.get("target_rating", 4.9)
+    total    = new_state["total"]
+    s        = new_state["sum"]
+    avg      = round(s / total, 4) if total else 0
+    base_avg = round(baseline["sum"] / baseline["total"], 4) if baseline.get("total") else None
+    delta    = total - baseline.get("total", total)
+    needed   = stars_needed(total, s, target)
+    bd       = new_state["breakdown"]
 
     lines = [f"{name} — Weekly Review Check  ({datetime.now().strftime('%B %-d, %Y')})", ""]
 
     if delta == 0 and not new_reviews:
-        lines += [f"No new reviews today.",
+        lines += [f"No new reviews this week.",
                   f"Total: {total}  |  Average: {avg}  (Google shows {new_state.get('google_rating')})"]
     else:
         if delta > 0:
-            lines.append(f"{delta} new review(s) today.")
-        lines.append(f"Average: {avg}  (was {old_avg})  |  Total: {total}  (was {old_state.get('total')})")
+            lines.append(f"{delta} new review(s) this week.")
+        lines.append(f"Average: {avg}  (was {base_avg})  |  Total: {total}  (was {baseline.get('total')})")
         if new_reviews:
             lines += ["", "New review(s):"]
             for r in new_reviews:
@@ -208,9 +208,16 @@ def run_salon(salon):
     new_state, new_reviews, note = update_breakdown(new_state, result)
 
     if SEND_ALWAYS:
-        body    = build_daily_email(salon, old_state, new_state, new_reviews, note)
+        # Compare against last week's snapshot, not whatever the last hourly check saved —
+        # so the weekly digest reflects the whole week, not just "since the last peek."
+        baseline = old_state.get("week_baseline") or {
+            "total": old_state.get("total", 0),
+            "sum": old_state.get("sum", 0),
+        }
+        body    = build_daily_email(salon, baseline, new_state, new_reviews, note)
         subject = f"{salon['name']} — Weekly Review Check"
         send_email(to_list, subject, body)
+        new_state["week_baseline"] = {"total": new_state["total"], "sum": new_state["sum"]}
     elif new_reviews:
         body    = build_alert_email(salon, new_state, new_reviews)
         subject = alert_subject(salon, new_reviews)
