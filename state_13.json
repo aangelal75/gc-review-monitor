@@ -1,21 +1,21 @@
 {
-  "total": 99,
-  "sum": 394,
+  "total": 100,
+  "sum": 395,
   "breakdown": {
-    "1": 22,
+    "1": 23,
     "2": 2,
     "3": 1,
     "4": 5,
     "5": 69
   },
   "seen_review_ids": [
+    "Tom Andrews|1787542372",
     "Betty Hevia|1785793942",
     "Takeila Claverie|1785618240",
     "Rodney & Mona Lisa Cravey|1785363930",
-    "Sasi|1784925673",
-    "Gerardo Mares|1784900894"
+    "Sasi|1784925673"
   ],
-  "google_rating": 4.1,
+  "google_rating": 4,
   "bootstrapped": true,
   "week_baseline": {
     "total": 99,
