@@ -8,14 +8,8 @@
     "4": 0,
     "5": 9
   },
-  "seen_review_ids": [
-    "N M|1786402667",
-    "Kendra Mullican|1785433533",
-    "Jose carreon|1784997582",
-    "Henry Merlos|1782941292",
-    "Dale Morris|1782333184"
-  ],
-  "google_rating": 5,
+  "seen_review_ids": [],
+  "google_rating": null,
   "bootstrapped": true,
   "week_baseline": {
     "total": 9,
