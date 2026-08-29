@@ -1,19 +1,19 @@
 {
-  "total": 113,
-  "sum": 475,
+  "total": 114,
+  "sum": 480,
   "breakdown": {
     "1": 14,
     "2": 8,
     "3": 4,
     "4": 2,
-    "5": 85
+    "5": 86
   },
   "seen_review_ids": [
+    "They call Me Ruthie|1788022152",
     "Linda Stricker|1786031018",
     "Kicu Thomas|1784225533",
     "Jeff Ward|1782003769",
-    "Janice Lee|1778600238",
-    "Pavan Kumar|1777030955"
+    "Janice Lee|1778600238"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
