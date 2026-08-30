@@ -1,19 +1,19 @@
 {
   "total": 102,
-  "sum": 395,
+  "sum": 396,
   "breakdown": {
     "1": 26,
     "2": 2,
     "3": 1,
-    "4": 3,
-    "5": 70
+    "4": 2,
+    "5": 71
   },
   "seen_review_ids": [
-    "Jennifer Cook|1788126021",
     "Sriram Katragadda|1788044198",
     "Tom Andrews|1787542372",
     "Betty Hevia|1785793942",
-    "Takeila Claverie|1785618240"
+    "Takeila Claverie|1785618240",
+    "Rodney & Mona Lisa Cravey|1785363930"
   ],
   "google_rating": 4,
   "bootstrapped": true,
