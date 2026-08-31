@@ -1,15 +1,21 @@
 {
   "total": 470,
-  "sum": 2166,
+  "sum": 2171,
   "breakdown": {
     "1": 31,
     "2": 9,
     "3": 9,
-    "4": 15,
-    "5": 406
+    "4": 10,
+    "5": 411
   },
-  "seen_review_ids": [],
-  "google_rating": null,
+  "seen_review_ids": [
+    "christy Schmidt|1787500944",
+    "Nathan Gonzalez|1787184313",
+    "Cindy Henry|1784736758",
+    "Kenny|1781735153",
+    "DAWN BELL|1780932439"
+  ],
+  "google_rating": 4.5,
   "bootstrapped": true,
   "week_baseline": {
     "total": 470,
