@@ -8,14 +8,8 @@
     "4": 15,
     "5": 406
   },
-  "seen_review_ids": [
-    "christy Schmidt|1787500944",
-    "Nathan Gonzalez|1787184313",
-    "Cindy Henry|1784736758",
-    "Kenny|1781735153",
-    "DAWN BELL|1780932439"
-  ],
-  "google_rating": 4.5,
+  "seen_review_ids": [],
+  "google_rating": null,
   "bootstrapped": true,
   "week_baseline": {
     "total": 470,
