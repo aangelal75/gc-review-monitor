@@ -8,14 +8,8 @@
     "4": 8,
     "5": 91
   },
-  "seen_review_ids": [
-    "Colton Walker|1787246770",
-    "Sara Flowers|1786843109",
-    "Mandi Nelson|1786123357",
-    "Jeff Mefferd|1785076829",
-    "Estefana Guerrero|1784293963"
-  ],
-  "google_rating": 4.5,
+  "seen_review_ids": [],
+  "google_rating": null,
   "bootstrapped": true,
   "week_baseline": {
     "total": 113,
