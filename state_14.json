@@ -1,19 +1,19 @@
 {
   "total": 29,
-  "sum": 139,
+  "sum": 140,
   "breakdown": {
     "1": 1,
     "2": 0,
     "3": 1,
-    "4": 0,
-    "5": 27
+    "4": -1,
+    "5": 28
   },
   "seen_review_ids": [
-    "Dev Kapadia|1788303532",
     "Ft G|1784591707",
     "Chi Chung David Yen|1779981309",
     "Patrick Clayton|1778181248",
-    "Sailesh Kumar|1777940434"
+    "Sailesh Kumar|1777940434",
+    "Traci Jones|1776195839"
   ],
   "google_rating": 4.4,
   "bootstrapped": true,
