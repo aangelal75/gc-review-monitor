@@ -1,19 +1,19 @@
 {
   "total": 226,
-  "sum": 976,
+  "sum": 973,
   "breakdown": {
-    "1": 27,
+    "1": 28,
     "2": 9,
     "3": 6,
-    "4": 7,
+    "4": 6,
     "5": 177
   },
   "seen_review_ids": [
+    "Maria Enriquez|1788367234",
     "Abdullah Ghazi|1787088891",
     "Eric Schneider|1786301295",
     "Becky Meredith|1784480077",
-    "jane anderson|1783096942",
-    "Adrian Maya|1782513195"
+    "jane anderson|1783096942"
   ],
   "google_rating": 4.1,
   "bootstrapped": true,
