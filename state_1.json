@@ -8,14 +8,8 @@
     "4": 9,
     "5": 252
   },
-  "seen_review_ids": [
-    "Mark Briker|1786908537",
-    "Dalton Costello|1786822784",
-    "Ashley Sanchez|1786372702",
-    "James Hayes|1786189227",
-    "John Duran|1786034552"
-  ],
-  "google_rating": 4,
+  "seen_review_ids": [],
+  "google_rating": null,
   "bootstrapped": true,
   "week_baseline": {
     "total": 311,
