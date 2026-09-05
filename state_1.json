@@ -1,15 +1,21 @@
 {
   "total": 311,
-  "sum": 1373,
+  "sum": 1375,
   "breakdown": {
     "1": 29,
-    "2": 15,
+    "2": 16,
     "3": 6,
-    "4": 9,
-    "5": 252
+    "4": 4,
+    "5": 256
   },
-  "seen_review_ids": [],
-  "google_rating": null,
+  "seen_review_ids": [
+    "Mark Briker|1786908537",
+    "Dalton Costello|1786822784",
+    "Ashley Sanchez|1786372702",
+    "James Hayes|1786189227",
+    "John Duran|1786034552"
+  ],
+  "google_rating": 4,
   "bootstrapped": true,
   "week_baseline": {
     "total": 311,
