@@ -1,19 +1,19 @@
 {
-  "total": 134,
-  "sum": 610,
+  "total": 135,
+  "sum": 611,
   "breakdown": {
-    "1": 11,
+    "1": 12,
     "2": 1,
     "3": 0,
     "4": 13,
     "5": 109
   },
   "seen_review_ids": [
+    "Fiona Gregg|1788575898",
     "numan \u00f6zk\u00f6keli|1787758345",
     "Kelly McGonigle|1786727256",
     "MJ Frew|1785086351",
-    "David Rodriguez|1784996298",
-    "Shivsankar R.|1783008742"
+    "David Rodriguez|1784996298"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
