@@ -1,19 +1,19 @@
 {
-  "total": 102,
-  "sum": 391,
+  "total": 103,
+  "sum": 392,
   "breakdown": {
-    "1": 30,
+    "1": 31,
     "2": 2,
     "3": 1,
     "4": -9,
     "5": 78
   },
   "seen_review_ids": [
+    "Alphonse Devasi|1788634007",
     "Jennifer Cook|1788126021",
     "Sriram Katragadda|1788044198",
     "Tom Andrews|1787542372",
-    "Betty Hevia|1785793942",
-    "Takeila Claverie|1785618240"
+    "Betty Hevia|1785793942"
   ],
   "google_rating": 4,
   "bootstrapped": true,
