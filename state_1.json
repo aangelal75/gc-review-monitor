@@ -1,19 +1,19 @@
 {
   "total": 311,
-  "sum": 1375,
+  "sum": 1373,
   "breakdown": {
     "1": 29,
-    "2": 16,
+    "2": 17,
     "3": 6,
-    "4": 4,
+    "4": 3,
     "5": 256
   },
   "seen_review_ids": [
+    "Chris K|1788831504",
     "Mark Briker|1786908537",
     "Dalton Costello|1786822784",
     "Ashley Sanchez|1786372702",
-    "James Hayes|1786189227",
-    "John Duran|1786034552"
+    "James Hayes|1786189227"
   ],
   "google_rating": 4,
   "bootstrapped": true,
