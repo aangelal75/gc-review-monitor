@@ -1,19 +1,19 @@
 {
-  "total": 272,
-  "sum": 1145,
+  "total": 273,
+  "sum": 1150,
   "breakdown": {
     "1": 40,
     "2": 11,
     "3": 4,
     "4": 14,
-    "5": 203
+    "5": 204
   },
   "seen_review_ids": [
+    "emily steffens|1788990959",
     "Mikayla Garrison|1786823308",
     "STEPHEN PENDLETON|1786126333",
     "Annie Alejandra Rossi Castellani|1784684017",
-    "Pat Brownlee|1784589073",
-    "Christian Horn|1784329379"
+    "Pat Brownlee|1784589073"
   ],
   "google_rating": 4.3,
   "bootstrapped": true,
