@@ -1,19 +1,19 @@
 {
   "total": 312,
-  "sum": 1378,
+  "sum": 1376,
   "breakdown": {
     "1": 29,
-    "2": 17,
+    "2": 18,
     "3": 6,
-    "4": 3,
+    "4": 2,
     "5": 257
   },
   "seen_review_ids": [
-    "ThatgirlDeb|1789071274",
     "Chris K|1788831504",
     "Mark Briker|1786908537",
     "Dalton Costello|1786822784",
-    "Ashley Sanchez|1786372702"
+    "Ashley Sanchez|1786372702",
+    "James Hayes|1786189227"
   ],
   "google_rating": 4,
   "bootstrapped": true,
