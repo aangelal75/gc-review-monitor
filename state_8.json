@@ -1,19 +1,19 @@
 {
-  "total": 113,
-  "sum": 506,
+  "total": 114,
+  "sum": 511,
   "breakdown": {
     "1": 14,
     "2": 1,
     "3": 1,
     "4": -2,
-    "5": 99
+    "5": 100
   },
   "seen_review_ids": [
+    "P Hedden|1789054996",
     "Colton Walker|1787246770",
     "Sara Flowers|1786843109",
     "Mandi Nelson|1786123357",
-    "Jeff Mefferd|1785076829",
-    "Estefana Guerrero|1784293963"
+    "Jeff Mefferd|1785076829"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,

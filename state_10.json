@@ -1,19 +1,19 @@
 {
-  "total": 137,
-  "sum": 621,
+  "total": 138,
+  "sum": 626,
   "breakdown": {
     "1": 12,
     "2": 1,
     "3": 0,
     "4": 13,
-    "5": 111
+    "5": 112
   },
   "seen_review_ids": [
+    "Javier Robles|1789056567",
     "Mary hernandez|1789048333",
     "Face Gift Shop|1789023822",
     "Fiona Gregg|1788575898",
-    "numan \u00f6zk\u00f6keli|1787758345",
-    "Kelly McGonigle|1786727256"
+    "numan \u00f6zk\u00f6keli|1787758345"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
