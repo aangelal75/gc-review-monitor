@@ -1,19 +1,19 @@
 {
-  "total": 112,
-  "sum": 485,
+  "total": 113,
+  "sum": 490,
   "breakdown": {
     "1": 17,
     "2": 0,
     "3": 3,
     "4": 1,
-    "5": 91
+    "5": 92
   },
   "seen_review_ids": [
+    "Marshall McCullough|1789229929",
     "2wheeled Demon|1788724416",
     "Brian Wright|1787009668",
     "robert reyna|1786823358",
-    "Tracy Brugno|1786631664",
-    "Brandi Mclemore-Naqvi|1785457299"
+    "Tracy Brugno|1786631664"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
