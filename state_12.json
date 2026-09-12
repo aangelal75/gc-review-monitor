@@ -1,15 +1,15 @@
 {
   "total": 113,
-  "sum": 491,
+  "sum": 492,
   "breakdown": {
     "1": 17,
     "2": 0,
     "3": 3,
-    "4": 0,
-    "5": 93
+    "4": -1,
+    "5": 94
   },
   "seen_review_ids": [
-    "Timothy Huffman|1789240713",
+    "Yoda|1789240713",
     "Marshall McCullough|1789229929",
     "2wheeled Demon|1788724416",
     "Brian Wright|1787009668",
