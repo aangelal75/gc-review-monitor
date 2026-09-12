@@ -1,21 +1,21 @@
 {
   "total": 113,
-  "sum": 490,
+  "sum": 491,
   "breakdown": {
     "1": 17,
     "2": 0,
     "3": 3,
-    "4": 1,
-    "5": 92
+    "4": 0,
+    "5": 93
   },
   "seen_review_ids": [
+    "Timothy Huffman|1789240713",
     "Marshall McCullough|1789229929",
     "2wheeled Demon|1788724416",
     "Brian Wright|1787009668",
-    "robert reyna|1786823358",
-    "Tracy Brugno|1786631664"
+    "robert reyna|1786823358"
   ],
-  "google_rating": 4.2,
+  "google_rating": 4.3,
   "bootstrapped": true,
   "week_baseline": {
     "total": 112,
