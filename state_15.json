@@ -1,19 +1,19 @@
 {
-  "total": 10,
-  "sum": 42,
+  "total": 11,
+  "sum": 47,
   "breakdown": {
     "1": 2,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 8
+    "5": 9
   },
   "seen_review_ids": [
+    "Justin Smith|1789259430",
     "Wilson Marin|1789143780",
     "N M|1786402667",
     "Kendra Mullican|1785433533",
-    "Jose carreon|1784997582",
-    "Henry Merlos|1782941292"
+    "Jose carreon|1784997582"
   ],
   "google_rating": 4.6,
   "bootstrapped": true,
