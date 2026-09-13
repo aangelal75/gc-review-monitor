@@ -1,15 +1,21 @@
 {
   "total": 113,
-  "sum": 492,
+  "sum": 493,
   "breakdown": {
-    "1": 17,
+    "1": 18,
     "2": 0,
     "3": 3,
-    "4": -1,
-    "5": 94
+    "4": -6,
+    "5": 98
   },
-  "seen_review_ids": [],
-  "google_rating": null,
+  "seen_review_ids": [
+    "Yoda|1789240713",
+    "Marshall McCullough|1789229929",
+    "2wheeled Demon|1788724416",
+    "Brian Wright|1787009668",
+    "robert reyna|1786823358"
+  ],
+  "google_rating": 4.3,
   "bootstrapped": true,
   "week_baseline": {
     "total": 112,
