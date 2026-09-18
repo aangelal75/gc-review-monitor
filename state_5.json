@@ -1,19 +1,19 @@
 {
-  "total": 225,
-  "sum": 996,
+  "total": 226,
+  "sum": 1001,
   "breakdown": {
     "1": 30,
     "2": 0,
     "3": 0,
     "4": 9,
-    "5": 186
+    "5": 187
   },
   "seen_review_ids": [
+    "Patricia Kelley|1789688256",
     "Van Creighton|1787083982",
     "D J|1786203081",
     "Leonora Vazquez|1784721416",
-    "Bridgette Boykin|1784490136",
-    "Berenice Moreno|1782929460"
+    "Bridgette Boykin|1784490136"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
