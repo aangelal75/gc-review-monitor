@@ -1,19 +1,19 @@
 {
   "total": 227,
-  "sum": 1005,
+  "sum": 1006,
   "breakdown": {
     "1": 30,
     "2": 0,
     "3": 0,
-    "4": 10,
-    "5": 187
+    "4": 9,
+    "5": 188
   },
   "seen_review_ids": [
+    "Jeanette Hasenkamp|1789803000",
     "Patricia Kelley|1789688256",
     "Van Creighton|1787083982",
     "D J|1786203081",
-    "Leonora Vazquez|1784721416",
-    "Bridgette Boykin|1784490136"
+    "Leonora Vazquez|1784721416"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
