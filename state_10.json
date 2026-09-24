@@ -1,19 +1,19 @@
 {
-  "total": 139,
-  "sum": 631,
+  "total": 140,
+  "sum": 636,
   "breakdown": {
     "1": 12,
     "2": 1,
     "3": 0,
     "4": 13,
-    "5": 113
+    "5": 114
   },
   "seen_review_ids": [
+    "Edward Cirella|1790267964",
     "Steve Green|1789858687",
     "Javier Robles|1789056567",
     "Mary hernandez|1789048333",
-    "Face Gift Shop|1789023822",
-    "Fiona Gregg|1788575898"
+    "Face Gift Shop|1789023822"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
