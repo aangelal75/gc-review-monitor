@@ -1,19 +1,19 @@
 {
-  "total": 103,
-  "sum": 390,
+  "total": 104,
+  "sum": 391,
   "breakdown": {
-    "1": 32,
+    "1": 33,
     "2": 2,
     "3": 1,
     "4": -11,
     "5": 79
   },
   "seen_review_ids": [
+    "Joanna Varghese|1790443648",
     "Alphonse Devasi|1788634007",
     "Jennifer Cook|1788126021",
     "Sriram Katragadda|1788044198",
-    "Tom Andrews|1787542372",
-    "Betty Hevia|1785793942"
+    "Tom Andrews|1787542372"
   ],
   "google_rating": 4,
   "bootstrapped": true,
