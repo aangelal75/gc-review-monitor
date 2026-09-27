@@ -1,19 +1,19 @@
 {
-  "total": 104,
-  "sum": 391,
+  "total": 105,
+  "sum": 396,
   "breakdown": {
     "1": 33,
     "2": 2,
     "3": 1,
     "4": -11,
-    "5": 79
+    "5": 80
   },
   "seen_review_ids": [
+    "charlie Haan|1790541584",
     "Joanna Varghese|1790443648",
     "Alphonse Devasi|1788634007",
     "Jennifer Cook|1788126021",
-    "Sriram Katragadda|1788044198",
-    "Tom Andrews|1787542372"
+    "Sriram Katragadda|1788044198"
   ],
   "google_rating": 4,
   "bootstrapped": true,

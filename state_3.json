@@ -1,19 +1,19 @@
 {
-  "total": 472,
-  "sum": 2180,
+  "total": 473,
+  "sum": 2181,
   "breakdown": {
-    "1": 31,
+    "1": 32,
     "2": 9,
     "3": 9,
     "4": 11,
     "5": 412
   },
   "seen_review_ids": [
+    "Aaron V|1790539317",
     "Sara Comstock|1790246679",
     "Douglas Fritz|1789565811",
     "christy Schmidt|1787500944",
-    "Nathan Gonzalez|1787184313",
-    "Cindy Henry|1784736758"
+    "Nathan Gonzalez|1787184313"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
