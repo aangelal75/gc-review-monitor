@@ -1,19 +1,19 @@
 {
-  "total": 113,
-  "sum": 493,
+  "total": 114,
+  "sum": 498,
   "breakdown": {
     "1": 18,
     "2": 0,
     "3": 3,
     "4": -6,
-    "5": 98
+    "5": 99
   },
   "seen_review_ids": [
+    "Theresa Rowell|1790714513",
     "Yoda|1789240713",
     "Marshall McCullough|1789229929",
     "2wheeled Demon|1788724416",
-    "Brian Wright|1787009668",
-    "robert reyna|1786823358"
+    "Brian Wright|1787009668"
   ],
   "google_rating": 4.3,
   "bootstrapped": true,
