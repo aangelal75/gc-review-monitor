@@ -1,19 +1,19 @@
 {
-  "total": 274,
-  "sum": 1147,
+  "total": 275,
+  "sum": 1152,
   "breakdown": {
     "1": 43,
     "2": 11,
     "3": 4,
     "4": 10,
-    "5": 206
+    "5": 207
   },
   "seen_review_ids": [
+    "Debra Fulcher|1790787585",
     "The one and only DK|1789410784",
     "emily steffens|1788990959",
     "Mikayla Garrison|1786823308",
-    "STEPHEN PENDLETON|1786126333",
-    "Annie Alejandra Rossi Castellani|1784684017"
+    "STEPHEN PENDLETON|1786126333"
   ],
   "google_rating": 4.3,
   "bootstrapped": true,
