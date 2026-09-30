@@ -1,19 +1,19 @@
 {
-  "total": 313,
-  "sum": 1380,
+  "total": 314,
+  "sum": 1385,
   "breakdown": {
     "1": 30,
     "2": 18,
     "3": 6,
     "4": -1,
-    "5": 260
+    "5": 261
   },
   "seen_review_ids": [
+    "Jimmy Rodriguez|1790718780",
     "Venkat NRV|1790472181",
     "Jeremy Sosa|1789423087",
     "ThatgirlDeb|1789071274",
-    "Chris K|1788831504",
-    "Mark Briker|1786908537"
+    "Chris K|1788831504"
   ],
   "google_rating": 4,
   "bootstrapped": true,
