@@ -1,19 +1,19 @@
 {
-  "total": 115,
-  "sum": 516,
+  "total": 116,
+  "sum": 521,
   "breakdown": {
     "1": 14,
     "2": 1,
     "3": 1,
     "4": -2,
-    "5": 101
+    "5": 102
   },
   "seen_review_ids": [
+    "C.J. Ainsworth|1790957577",
     "John Lancon|1790633813",
     "P Hedden|1789054996",
     "Colton Walker|1787246770",
-    "Sara Flowers|1786843109",
-    "Mandi Nelson|1786123357"
+    "Sara Flowers|1786843109"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
