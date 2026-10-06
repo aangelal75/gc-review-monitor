@@ -8,14 +8,8 @@
     "4": 6,
     "5": 179
   },
-  "seen_review_ids": [
-    "Phil Erdmann|1791240488",
-    "R. Maroon|1789437432",
-    "Maria Enriquez|1788367234",
-    "Abdullah Ghazi|1787088891",
-    "Eric Schneider|1786301295"
-  ],
-  "google_rating": 4.1,
+  "seen_review_ids": [],
+  "google_rating": null,
   "bootstrapped": true,
   "week_baseline": {
     "total": 227,
