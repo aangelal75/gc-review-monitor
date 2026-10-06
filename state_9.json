@@ -2,14 +2,20 @@
   "total": 228,
   "sum": 983,
   "breakdown": {
-    "1": 28,
+    "1": 29,
     "2": 9,
     "3": 6,
-    "4": 6,
-    "5": 179
+    "4": 2,
+    "5": 182
   },
-  "seen_review_ids": [],
-  "google_rating": null,
+  "seen_review_ids": [
+    "Phil Erdmann|1791240488",
+    "R. Maroon|1789437432",
+    "Maria Enriquez|1788367234",
+    "Abdullah Ghazi|1787088891",
+    "Eric Schneider|1786301295"
+  ],
+  "google_rating": 4.1,
   "bootstrapped": true,
   "week_baseline": {
     "total": 227,
