@@ -1,19 +1,19 @@
 {
   "total": 350,
-  "sum": 1392,
+  "sum": 1393,
   "breakdown": {
     "1": 67,
     "2": 17,
     "3": 3,
-    "4": 33,
-    "5": 230
+    "4": 32,
+    "5": 231
   },
   "seen_review_ids": [
+    "Emily Roy|1791408234",
     "Sara M|1789054199",
     "Erin D|1788805928",
     "Bilesh Ladva|1788400944",
-    "Adrienne Boyle|1788035222",
-    "Daphne LaCour|1786806674"
+    "Adrienne Boyle|1788035222"
   ],
   "google_rating": 4,
   "bootstrapped": true,
