@@ -1,21 +1,21 @@
 {
-  "total": 116,
-  "sum": 490,
+  "total": 117,
+  "sum": 491,
   "breakdown": {
-    "1": 14,
+    "1": 15,
     "2": 8,
     "3": 4,
     "4": 2,
     "5": 88
   },
   "seen_review_ids": [
+    "Destiny Bonds|1791829141",
     "Knight204|1791330404",
     "Ed Boenisch|1788349638",
     "They call Me Ruthie|1788022152",
-    "Linda Stricker|1786031018",
-    "Kicu Thomas|1784225533"
+    "Linda Stricker|1786031018"
   ],
-  "google_rating": 4.3,
+  "google_rating": 4.2,
   "bootstrapped": true,
   "week_baseline": {
     "total": 115,
