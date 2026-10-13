@@ -1,19 +1,19 @@
 {
-  "total": 473,
-  "sum": 2181,
+  "total": 474,
+  "sum": 2186,
   "breakdown": {
     "1": 32,
     "2": 9,
     "3": 9,
     "4": 11,
-    "5": 412
+    "5": 413
   },
   "seen_review_ids": [
+    "Randall Alley|1791898739",
     "Aaron V|1790539317",
     "Sara Comstock|1790246679",
     "Douglas Fritz|1789565811",
-    "christy Schmidt|1787500944",
-    "Nathan Gonzalez|1787184313"
+    "christy Schmidt|1787500944"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
