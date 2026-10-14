@@ -1,19 +1,19 @@
 {
-  "total": 105,
-  "sum": 396,
+  "total": 106,
+  "sum": 401,
   "breakdown": {
     "1": 33,
     "2": 2,
     "3": 1,
     "4": -11,
-    "5": 80
+    "5": 81
   },
   "seen_review_ids": [
+    "M. Swift|1791936520",
     "charlie Haan|1790541584",
     "Joanna Varghese|1790443648",
     "Alphonse Devasi|1788634007",
-    "Jennifer Cook|1788126021",
-    "Sriram Katragadda|1788044198"
+    "Jennifer Cook|1788126021"
   ],
   "google_rating": 4,
   "bootstrapped": true,
