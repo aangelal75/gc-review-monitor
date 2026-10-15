@@ -1,19 +1,19 @@
 {
   "total": 117,
-  "sum": 491,
+  "sum": 492,
   "breakdown": {
     "1": 15,
     "2": 8,
     "3": 4,
-    "4": 2,
-    "5": 88
+    "4": 1,
+    "5": 89
   },
   "seen_review_ids": [
+    "Michael Varela|1792062430",
     "Destiny Bonds|1791829141",
     "Knight204|1791330404",
     "Ed Boenisch|1788349638",
-    "They call Me Ruthie|1788022152",
-    "Linda Stricker|1786031018"
+    "They call Me Ruthie|1788022152"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
