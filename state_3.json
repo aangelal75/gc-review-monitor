@@ -1,24 +1,26 @@
 {
-  "total": 474,
-  "sum": 2186,
+  "total": 475,
+  "sum": 2184,
   "breakdown": {
     "1": 32,
     "2": 9,
     "3": 9,
-    "4": 11,
-    "5": 413
+    "4": 18,
+    "5": 407
   },
   "seen_review_ids": [
     "Randall Alley|1791898739",
     "Aaron V|1790539317",
     "Sara Comstock|1790246679",
     "Douglas Fritz|1789565811",
-    "christy Schmidt|1787500944"
+    "christy Schmidt|1787500944",
+    "Runt Gordon|1792113605"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
   "week_baseline": {
     "total": 473,
-    "sum": 2181
-  }
+    "sum": 2175
+  },
+  "seed_applied": true
 }

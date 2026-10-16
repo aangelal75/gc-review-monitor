@@ -1,12 +1,12 @@
 {
   "total": 350,
-  "sum": 1393,
+  "sum": 1388,
   "breakdown": {
     "1": 67,
     "2": 17,
     "3": 3,
-    "4": 32,
-    "5": 231
+    "4": 37,
+    "5": 226
   },
   "seen_review_ids": [
     "Emily Roy|1791408234",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 350,
-    "sum": 1393
-  }
+    "sum": 1388
+  },
+  "seed_applied": true
 }

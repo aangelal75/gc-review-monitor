@@ -1,12 +1,12 @@
 {
   "total": 218,
-  "sum": 956,
+  "sum": 957,
   "breakdown": {
     "1": 21,
     "2": 4,
     "3": 6,
-    "4": 26,
-    "5": 161
+    "4": 25,
+    "5": 162
   },
   "seen_review_ids": [
     "Wes Robertson CNE|1791923830",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 217,
-    "sum": 952
-  }
+    "sum": 953
+  },
+  "seed_applied": true
 }

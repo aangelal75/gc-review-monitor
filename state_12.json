@@ -1,12 +1,12 @@
 {
   "total": 114,
-  "sum": 498,
+  "sum": 489,
   "breakdown": {
     "1": 18,
     "2": 0,
     "3": 3,
-    "4": -6,
-    "5": 99
+    "4": 3,
+    "5": 90
   },
   "seen_review_ids": [
     "Theresa Rowell|1790714513",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 114,
-    "sum": 498
-  }
+    "sum": 489
+  },
+  "seed_applied": true
 }

@@ -1,12 +1,12 @@
 {
   "total": 12,
-  "sum": 52,
+  "sum": 60,
   "breakdown": {
-    "1": 2,
+    "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 10
+    "5": 12
   },
   "seen_review_ids": [
     "Sani Patel|1791253541",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 12,
-    "sum": 52
-  }
+    "sum": 60
+  },
+  "seed_applied": true
 }

@@ -1,12 +1,12 @@
 {
   "total": 228,
-  "sum": 983,
+  "sum": 988,
   "breakdown": {
-    "1": 29,
+    "1": 26,
     "2": 9,
     "3": 6,
-    "4": 2,
-    "5": 182
+    "4": 9,
+    "5": 178
   },
   "seen_review_ids": [
     "Phil Erdmann|1791240488",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 228,
-    "sum": 983
-  }
+    "sum": 988
+  },
+  "seed_applied": true
 }

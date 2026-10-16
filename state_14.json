@@ -1,12 +1,12 @@
 {
   "total": 31,
-  "sum": 147,
+  "sum": 149,
   "breakdown": {
-    "1": 2,
+    "1": 1,
     "2": 0,
     "3": 1,
-    "4": -2,
-    "5": 30
+    "4": 0,
+    "5": 29
   },
   "seen_review_ids": [
     "Linda Gomez Mueller|1791769219",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 31,
-    "sum": 147
-  }
+    "sum": 149
+  },
+  "seed_applied": true
 }

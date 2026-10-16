@@ -1,12 +1,12 @@
 {
   "total": 106,
-  "sum": 401,
+  "sum": 421,
   "breakdown": {
-    "1": 33,
+    "1": 24,
     "2": 2,
     "3": 1,
-    "4": -11,
-    "5": 81
+    "4": 5,
+    "5": 74
   },
   "seen_review_ids": [
     "M. Swift|1791936520",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 105,
-    "sum": 396
-  }
+    "sum": 417
+  },
+  "seed_applied": true
 }

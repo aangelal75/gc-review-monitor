@@ -1,12 +1,12 @@
 {
   "total": 116,
-  "sum": 521,
+  "sum": 519,
   "breakdown": {
-    "1": 14,
+    "1": 12,
     "2": 1,
     "3": 1,
-    "4": -2,
-    "5": 102
+    "4": 8,
+    "5": 94
   },
   "seen_review_ids": [
     "C.J. Ainsworth|1790957577",
@@ -19,6 +19,7 @@
   "bootstrapped": true,
   "week_baseline": {
     "total": 116,
-    "sum": 521
-  }
+    "sum": 519
+  },
+  "seed_applied": true
 }
