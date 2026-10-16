@@ -85,12 +85,23 @@ def update_breakdown(state, result):
                       "bootstrapped": True})
         return state, [], note
 
-    seen_ids   = set(state.get("seen_review_ids", []))
-    new_reviews = [r for r in reviews if f"{r.get('author_name')}|{r.get('time')}" not in seen_ids]
+    def rid(r):
+        return f"{r.get('author_name')}|{r.get('time')}"
+
+    old_seen   = list(state.get("seen_review_ids", []))
+    seen_ids   = set(old_seen)
+    unseen     = [r for r in reviews if rid(r) not in seen_ids]
+    unseen.sort(key=lambda r: r.get("time", 0), reverse=True)
 
     total      = state["total"]
     rating_sum = state["sum"]
     breakdown  = state["breakdown"]
+
+    # Only trust as many "new" reviews as Google's own total actually grew by.
+    # (Google sometimes returns a different set of "latest 5" from one check to the next;
+    #  without this guard, old reviews get counted as new again.)
+    growth      = (new_google_total - total) if new_google_total is not None else len(unseen)
+    new_reviews = unseen[:max(0, growth)]
 
     for r in new_reviews:
         try:
@@ -106,17 +117,65 @@ def update_breakdown(state, result):
     note      = ""
     if diff != 0 and new_google_rating:
         assumed = max(1, min(5, round(new_google_rating)))
-        rating_sum += diff * assumed
-        breakdown[str(assumed)] = breakdown.get(str(assumed), 0) + diff
-        note = (f"({diff} review(s) added by Google weren't individually visible; estimated {assumed}★.)"
-                if diff > 0 else
-                f"({-diff} review(s) removed by Google; assumed {assumed}★ removed.)")
+        if diff > 0:
+            rating_sum += diff * assumed
+            breakdown[str(assumed)] = breakdown.get(str(assumed), 0) + diff
+            note = f"({diff} review(s) added by Google weren't individually visible; estimated {assumed}★.)"
+        else:
+            remaining = -diff
+            order = [assumed] + sorted(range(1, 6), key=lambda k: -breakdown.get(str(k), 0))
+            for star in order:
+                if remaining <= 0:
+                    break
+                take = min(remaining, max(0, breakdown.get(str(star), 0)))
+                breakdown[str(star)] = breakdown.get(str(star), 0) - take
+                rating_sum -= take * star
+                remaining -= take
+            note = f"({-diff} review(s) removed by Google; estimated from the closest star counts.)"
 
     total   = new_google_total if new_google_total is not None else accounted
-    new_ids = [f"{r.get('author_name')}|{r.get('time')}" for r in reviews]
+    # Remember every review we have ever seen (not just the latest 5), so old ones that
+    # re-appear are never mistaken for new.
+    cur_ids = [rid(r) for r in reviews]
+    merged  = old_seen + [i for i in cur_ids if i not in seen_ids]
     state.update({"total": total, "sum": rating_sum, "breakdown": breakdown,
-                  "seen_review_ids": new_ids, "google_rating": new_google_rating})
+                  "seen_review_ids": merged[-300:], "google_rating": new_google_rating})
     return state, new_reviews, note
+
+
+# ── One-time repair from the partial star sample ───────────────────────────────
+def load_seed():
+    if os.path.exists("seed_partial.json"):
+        with open("seed_partial.json") as f:
+            return json.load(f)
+    return {}
+
+
+SEED = load_seed()
+
+
+def apply_seed(salon_id, state):
+    """Rebuild the star breakdown once, from the partial sample scaled to Google's current total."""
+    seed = SEED.get(str(salon_id))
+    if not seed or state.get("seed_applied") or not state.get("bootstrapped"):
+        return state
+    partial = [max(0, int(seed.get(str(i), 0))) for i in range(1, 6)]
+    ptotal  = sum(partial)
+    goal    = state["total"]
+    if ptotal == 0 or goal <= 0:
+        return state
+    raw       = [c * goal / ptotal for c in partial]
+    counts    = [int(x) for x in raw]
+    leftovers = sorted(range(5), key=lambda i: raw[i] - counts[i], reverse=True)
+    for i in range(goal - sum(counts)):
+        counts[leftovers[i % 5]] += 1
+    state["breakdown"] = {str(i + 1): counts[i] for i in range(5)}
+    state["sum"]       = sum((i + 1) * counts[i] for i in range(5))
+    state["seed_applied"] = True
+    base = state.get("week_baseline")
+    if base and base.get("total"):
+        base["sum"] = round(base["total"] * state["sum"] / state["total"])
+    return state
 
 
 # ── Email builders ─────────────────────────────────────────────────────────────
@@ -206,6 +265,9 @@ def run_salon(salon):
     old_state         = load_state(sid)
     new_state         = json.loads(json.dumps(old_state))
     new_state, new_reviews, note = update_breakdown(new_state, result)
+    new_state = apply_seed(sid, new_state)
+    if new_state.get("week_baseline"):
+        old_state["week_baseline"] = new_state["week_baseline"]
 
     if SEND_ALWAYS:
         # Compare against last week's snapshot, not whatever the last hourly check saved —
