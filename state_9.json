@@ -1,19 +1,20 @@
 {
-  "total": 228,
-  "sum": 988,
+  "total": 229,
+  "sum": 993,
   "breakdown": {
     "1": 26,
     "2": 9,
     "3": 6,
     "4": 9,
-    "5": 178
+    "5": 179
   },
   "seen_review_ids": [
     "Phil Erdmann|1791240488",
     "R. Maroon|1789437432",
     "Maria Enriquez|1788367234",
     "Abdullah Ghazi|1787088891",
-    "Eric Schneider|1786301295"
+    "Eric Schneider|1786301295",
+    "Sam Brandon|1792376106"
   ],
   "google_rating": 4.1,
   "bootstrapped": true,

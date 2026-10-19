@@ -1,8 +1,8 @@
 {
-  "total": 31,
-  "sum": 149,
+  "total": 32,
+  "sum": 150,
   "breakdown": {
-    "1": 1,
+    "1": 2,
     "2": 0,
     "3": 1,
     "4": 0,
@@ -13,9 +13,10 @@
     "John Flammer|1790609830",
     "Dev Kapadia|1788303532",
     "Ft G|1784591707",
-    "Chi Chung David Yen|1779981309"
+    "Chi Chung David Yen|1779981309",
+    "Dharmadev patel|1792379760"
   ],
-  "google_rating": 4.3,
+  "google_rating": 4.2,
   "bootstrapped": true,
   "week_baseline": {
     "total": 31,
