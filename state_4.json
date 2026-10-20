@@ -1,19 +1,20 @@
 {
-  "total": 284,
-  "sum": 1232,
+  "total": 285,
+  "sum": 1237,
   "breakdown": {
     "1": 35,
     "2": 5,
     "3": 3,
     "4": 27,
-    "5": 214
+    "5": 215
   },
   "seen_review_ids": [
     "Kimberly Kelley|1791589326",
     "Nasser MJ|1787599215",
     "Dale A|1786815747",
     "Dawn V|1786725194",
-    "Denise Stanfield|1785724692"
+    "Denise Stanfield|1785724692",
+    "Abdullah|1792472806"
   ],
   "google_rating": 4.3,
   "bootstrapped": true,
