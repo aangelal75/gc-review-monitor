@@ -1,11 +1,11 @@
 {
-  "total": 474,
-  "sum": 2180,
+  "total": 476,
+  "sum": 2185,
   "breakdown": {
-    "1": 32,
+    "1": 33,
     "2": 9,
     "3": 9,
-    "4": 17,
+    "4": 18,
     "5": 407
   },
   "seen_review_ids": [
@@ -14,7 +14,8 @@
     "Sara Comstock|1790246679",
     "Douglas Fritz|1789565811",
     "christy Schmidt|1787500944",
-    "Runt Gordon|1792113605"
+    "Runt Gordon|1792113605",
+    "Josue Rivera|1792776974"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
