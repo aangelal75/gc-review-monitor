@@ -1,12 +1,12 @@
 {
-  "total": 352,
-  "sum": 1397,
+  "total": 353,
+  "sum": 1402,
   "breakdown": {
     "1": 67,
     "2": 17,
     "3": 3,
     "4": 38,
-    "5": 227
+    "5": 228
   },
   "seen_review_ids": [
     "Emily Roy|1791408234",
@@ -15,7 +15,8 @@
     "Bilesh Ladva|1788400944",
     "Adrienne Boyle|1788035222",
     "LaNora Williams|1792272801",
-    "Ziya Chauthani|1792742536"
+    "Ziya Chauthani|1792742536",
+    "Eusebio Almendarez|1792856553"
   ],
   "google_rating": 4,
   "bootstrapped": true,
