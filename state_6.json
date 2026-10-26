@@ -1,12 +1,12 @@
 {
-  "total": 353,
-  "sum": 1402,
+  "total": 354,
+  "sum": 1407,
   "breakdown": {
     "1": 67,
     "2": 17,
     "3": 3,
     "4": 38,
-    "5": 228
+    "5": 229
   },
   "seen_review_ids": [
     "Emily Roy|1791408234",
@@ -16,13 +16,14 @@
     "Adrienne Boyle|1788035222",
     "LaNora Williams|1792272801",
     "Ziya Chauthani|1792742536",
-    "Eusebio Almendarez|1792856553"
+    "Eusebio Almendarez|1792856553",
+    "Chris Henkhaus|1793039199"
   ],
   "google_rating": 4,
   "bootstrapped": true,
   "week_baseline": {
-    "total": 351,
-    "sum": 1393
+    "total": 354,
+    "sum": 1407
   },
   "seed_applied": true
 }
