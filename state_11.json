@@ -1,10 +1,10 @@
 {
-  "total": 119,
-  "sum": 500,
+  "total": 120,
+  "sum": 503,
   "breakdown": {
     "1": 15,
     "2": 8,
-    "3": 4,
+    "3": 5,
     "4": 3,
     "5": 89
   },
@@ -16,7 +16,8 @@
     "They call Me Ruthie|1788022152",
     "Kim Wells|1792277650",
     "David Schwab|1792684970",
-    "Destiny Bonds|1793803884"
+    "Destiny Bonds|1793803884",
+    "Robert Tucker|1793996902"
   ],
   "google_rating": 4.2,
   "bootstrapped": true,
