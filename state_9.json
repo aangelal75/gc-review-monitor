@@ -1,12 +1,12 @@
 {
-  "total": 231,
-  "sum": 1003,
+  "total": 232,
+  "sum": 1008,
   "breakdown": {
     "1": 26,
     "2": 9,
     "3": 6,
     "4": 9,
-    "5": 181
+    "5": 182
   },
   "seen_review_ids": [
     "Phil Erdmann|1791240488",
@@ -16,7 +16,8 @@
     "Eric Schneider|1786301295",
     "Sam Brandon|1792376106",
     "Abraham|1793313975",
-    "A K|1793813944"
+    "A K|1793813944",
+    "Chelsea Cox|1794263582"
   ],
   "google_rating": 4.1,
   "bootstrapped": true,
