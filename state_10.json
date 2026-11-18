@@ -1,12 +1,12 @@
 {
-  "total": 145,
-  "sum": 659,
+  "total": 146,
+  "sum": 664,
   "breakdown": {
     "1": 12,
     "2": 1,
     "3": 0,
     "4": 15,
-    "5": 117
+    "5": 118
   },
   "seen_review_ids": [
     "Donald Pearce|1790948566",
@@ -15,7 +15,8 @@
     "Edward Cirella|1790267964",
     "Steve Green|1789858687",
     "Christopher Littleton|1792353863",
-    "Andrea Layne|1793326215"
+    "Andrea Layne|1793326215",
+    "Christopher Thornton|1794966917"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
