@@ -1,11 +1,11 @@
 {
-  "total": 106,
-  "sum": 421,
+  "total": 107,
+  "sum": 425,
   "breakdown": {
     "1": 24,
     "2": 2,
     "3": 1,
-    "4": 5,
+    "4": 6,
     "5": 74
   },
   "seen_review_ids": [
@@ -15,7 +15,7 @@
     "Alphonse Devasi|1788634007",
     "Jennifer Cook|1788126021"
   ],
-  "google_rating": 4,
+  "google_rating": 3.9,
   "bootstrapped": true,
   "week_baseline": {
     "total": 106,
