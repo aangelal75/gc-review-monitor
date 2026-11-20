@@ -1,12 +1,12 @@
 {
-  "total": 478,
-  "sum": 2194,
+  "total": 479,
+  "sum": 2199,
   "breakdown": {
     "1": 33,
     "2": 9,
     "3": 9,
     "4": 19,
-    "5": 408
+    "5": 409
   },
   "seen_review_ids": [
     "Randall Alley|1791898739",
@@ -17,7 +17,8 @@
     "Runt Gordon|1792113605",
     "Josue Rivera|1792776974",
     "Alexis Blackshear|1792868094",
-    "Tofu Arts|1794529521"
+    "Tofu Arts|1794529521",
+    "Brenda Fleming|1795135775"
   ],
   "google_rating": 4.5,
   "bootstrapped": true,
