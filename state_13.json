@@ -1,12 +1,12 @@
 {
-  "total": 107,
-  "sum": 425,
+  "total": 108,
+  "sum": 430,
   "breakdown": {
     "1": 24,
     "2": 2,
     "3": 1,
     "4": 6,
-    "5": 74
+    "5": 75
   },
   "seen_review_ids": [
     "M. Swift|1791936520",
@@ -14,9 +14,10 @@
     "Joanna Varghese|1790443648",
     "Alphonse Devasi|1788634007",
     "Jennifer Cook|1788126021",
-    "Shan Marie|1795040520"
+    "Shan Marie|1795040520",
+    "p smlliw|1795717761"
   ],
-  "google_rating": 3.9,
+  "google_rating": 4,
   "bootstrapped": true,
   "week_baseline": {
     "total": 107,
